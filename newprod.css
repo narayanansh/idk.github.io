@@ -1,0 +1,119 @@
+.product-image{
+ height: 600px;
+    background-color: #1687a7;
+    justify-content: center;
+}
+.new-prod-heading{
+    margin-top: -280px;
+}
+.button-new-prod{
+    margin-bottom: 100px;
+    margin-top: 70px;
+}
+.prod-img{
+   padding-left: 400px;
+  
+}
+.brand{
+    font-family: 'Staatliches', cursive;
+   font-size: 3.3rem;
+   margin: 0px;
+   padding-left: 280px;
+}
+.navigation-left{
+    padding-right:200px ;
+}
+.navigation-content{
+    font-size: 1.2rem;
+    color: #000000;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 400;
+}
+.logo{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 2rem;
+}
+.term-text{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 0;
+}
+.abt-us-img{
+    height: 400px;
+    width: 1000px;
+    margin-left: 490px;
+}
+.prod{
+    background-color: #1687a7;
+    padding-bottom: 100px;
+}
+.about-us-heading{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    color: #1687a7;
+    font-size: 3.78rem;
+    padding-top: 80px;
+
+}
+.about-us-para{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #000000;
+    font-weight: 400;
+font-size: 1.5rem;
+text-align: center;
+padding: 60px 280px;
+
+}
+.last-image-home{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 80%;
+    height: 100px;
+  margin-top: 60px;
+}
+.last-home-conatainer{
+background-color: #30475e;
+}
+.last-container-heading{
+color: white;
+font-size: 2.5rem;
+}
+.last-container-content{
+color: #cdd0cb    ;
+font-family: 'Ubuntu', sans-serif;
+text-align:left;
+}
+.container-content{
+padding-left: 300px;
+font-family: 'Roboto Mono', monospace;
+padding-top: 150px;
+text-align: left;
+}
+a{
+color: #cdd0cb;
+}
+.terms-conditions{
+background-color: #222831;
+}
+.term-text{
+text-align: center;
+color: white;
+padding: 20px;
+margin-bottom: 0;
+}
+.icon-centre{
+display: flex;
+align-items: center;
+justify-content: center;
+color: whitesmoke;
+padding-bottom: 50px;
+}
+.icon-heading{
+text-align: center;
+color: white;
+}
